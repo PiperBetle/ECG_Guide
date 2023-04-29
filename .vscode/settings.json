@@ -2,8 +2,8 @@
 	"markdown-pdf.styles": [
 		"C:\\Users\\piper\\Desktop\\ECG_Guide\\misty-light-windows.css",
 	],
-	"markdown-pdf.margin.top": "0cm",
-	"markdown-pdf.margin.bottom": "0cm",
+	"markdown-pdf.margin.top": "0.5cm",
+	"markdown-pdf.margin.bottom": "0.5cm",
 	"markdown-pdf.margin.right": "0.5cm",
 	"markdown-pdf.margin.left": "0.5cm",
 }
